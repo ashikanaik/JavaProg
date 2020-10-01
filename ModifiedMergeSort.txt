@@ -14,7 +14,7 @@ while(i<=mid&&j<=high)
 {
 if(array[i]>array[j])
 {
-array[k]=array[i];
+resarray[k]=array[i];
 i++;
 k++;
 }
